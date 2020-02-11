@@ -1,0 +1,26 @@
+.cohort{
+    border-style: dotted;
+    border-width: 50px;
+}
+.click{
+    margin-top: 100px;
+    padding-top: 50px;
+}
+div{
+    height: 200px;
+    width: 50%;
+    background-color: red;
+}
+ul.swallow{
+    list-style: circle;
+
+}
+
+table,th,td{
+    border: 1px solid red;
+    align-content: center;
+}
+td{
+    color: blue;
+}
+
